@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="movement" pkg="movement" type="movement.py" respawn="false" output="screen">
+  </node>
+
+</launch>
